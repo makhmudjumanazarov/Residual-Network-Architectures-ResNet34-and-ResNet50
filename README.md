@@ -1,4 +1,4 @@
-# Residual-Network-Architectures-ResNet34-and-ResNet50
+# Building ResNet34 and ResNet50 models using Tensorflow(TF) from scratch
 
 -Transfer Learning using ResNet-50, VGG-19, MobileNetV3 and InceptionV3 CNN Models 
 
