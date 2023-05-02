@@ -1,6 +1,5 @@
 # Residual-Network-Architectures-ResNet34-and-ResNet50
 
-# Plant Village  Dataset Classification
 -Transfer Learning using ResNet-50, VGG-19, MobileNetV3 and InceptionV3 CNN Models 
 
 -Building the CNN architecture from scratch
