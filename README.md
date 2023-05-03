@@ -8,7 +8,9 @@ In ResNets, a "shortcut" or a "skip connection" allows the model to skip layers:
 
 
 <img src="/Images/skip_connection_kiank.png" alt="Plant Village" style="display: block; margin: 0 auto; max-width: 100%;">
-                              A ResNet block showing a skip-connection
+<div style="text-align:center;">
+  A ResNet block showing a skip-connection
+</div>
 
 
 
