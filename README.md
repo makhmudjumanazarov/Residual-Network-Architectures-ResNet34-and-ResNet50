@@ -7,11 +7,7 @@ Residual networks solve degradation problem by shortcuts or skip connections, by
 In ResNets, a "shortcut" or a "skip connection" allows the model to skip layers:  
 
 <div style="text-align:center;">
-  <img src="/Images/skip_connection_kiank.png" alt="Plant Village" width="500">
-</div>
-
-<div style="text-align:center;">
-    <img src="https://github.com/makhmudjumanazarov/Residual-Network-Architectures-ResNet34-and-ResNet50-/raw/main/Images/idblock_kiank.png" style="width:650px;height:150px;" />
+    <img src="/Images/skip_connection_kiank.png" alt="Plant Village" width="500">
     <br>
     <caption><center> <u> <font color='purple'> <b>Figure 1</b> </u><font color='purple'>  : <b>Identity block.</b> Skip connection "skips over" 2 layers. </center></caption>
 </div>
