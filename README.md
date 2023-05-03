@@ -6,7 +6,7 @@ Residual networks solve degradation problem by shortcuts or skip connections, by
 
 In ResNets, a "shortcut" or a "skip connection" allows the model to skip layers:  
 
-![Images of Plant village](images/skip_connection_kiank.png)
+![Images of Plant village](/Images/skip_connection_kiank.png)
 
 
 
