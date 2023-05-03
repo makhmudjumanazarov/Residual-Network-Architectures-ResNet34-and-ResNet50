@@ -18,3 +18,5 @@ On that note, there is also some evidence that the ease of learning an identity 
 
 Two main types of blocks are used in a ResNet, depending mainly on whether the input/output dimensions are the same or different. You are going to implement both of them: the "identity block" and the "convolutional block."
 
+For more information, please refer to the  <a href= "https://github.com/makhmudjumanazarov/Residual-Network-Architectures-ResNet34-and-ResNet50/blob/main/ResNet.ipynb">link below</a>,
+
