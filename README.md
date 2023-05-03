@@ -10,7 +10,11 @@ In ResNets, a "shortcut" or a "skip connection" allows the model to skip layers:
   <img src="/Images/skip_connection_kiank.png" alt="Plant Village" width="500">
 </div>
 
-
+<div style="text-align:center;">
+    <img src="https://github.com/makhmudjumanazarov/Residual-Network-Architectures-ResNet34-and-ResNet50-/raw/main/Images/idblock_kiank.png" style="width:650px;height:150px;" />
+    <br>
+    <caption><center> <u> <font color='purple'> <b>Figure 1</b> </u><font color='purple'>  : <b>Identity block.</b> Skip connection "skips over" 2 layers. </center></caption>
+</div>
 
 
 The image on the left shows the "main path" through the network. The image on the right adds a shortcut to the main path. By stacking these ResNet blocks on top of each other, you can form a very deep network. 
