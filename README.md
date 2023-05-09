@@ -1,4 +1,4 @@
-# Building ResNet34 and ResNet50 models using Tensorflow(TF) from scratch
+## Building ResNet34 and ResNet50 models using Tensorflow(TF) from scratch
 
 ### Building a Residual Network
 
